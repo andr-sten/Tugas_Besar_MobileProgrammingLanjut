@@ -20,7 +20,7 @@
 
 **Backend (REST API):**  
 🔗 [Repository GitHub](https://github.com/andr-sten/TugasBesar_Backend)  
-🌐 [Website / API Endpoint](https://tugas-besar-backend.vercel.app/)
+🌐 [Aplikasi Versi Website](https://tugas-besar-backend.vercel.app/)
 
 ## 🚀 Deskripsi Proyek
 
