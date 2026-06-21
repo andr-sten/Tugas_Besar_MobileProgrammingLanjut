@@ -18,9 +18,9 @@
 
 ---
 
-## Link Repository Backend
+## Link Versi Website:
 
-https://github.com/andr-sten/TugasBesar_Backend
+https://tugas-besar-backend.vercel.app/
 
 ## 🚀 Deskripsi Proyek
 
