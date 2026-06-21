@@ -15,12 +15,12 @@
 ## 🔗 Repository & Download
 
 **Frontend (Aplikasi Mobile):**  
-🔗 [Repository GitHub](https://github.com/andr-sten/q_campus_antrian_mahasiswa)  
+🔗 [Repository GitHub](https://github.com/andr-sten/Tugas_Besar_MobileProgrammingLanjut)  
 📥 [Unduh Aplikasi (APK Release)](https://github.com/andr-sten/Tugas_Besar_MobileProgrammingLanjut/releases/tag/v1.0.0)
 
 **Backend (REST API):**  
 🔗 [Repository GitHub](https://github.com/andr-sten/TugasBesar_Backend)  
-🌐 [Aplikasi Versi Website](https://tugas-besar-backend.vercel.app/)
+🌐 [Aplikasi berbasis web](https://tugas-besar-backend.vercel.app/)
 
 ## 🚀 Deskripsi Proyek
 
@@ -54,7 +54,7 @@ MySQL Database
 - Laravel (Backend API)  
 - MySQL (Database)  
 - Laravel Sanctum (Authentication)  
-- Flutter (Mobile App - On Progress)  
+- Flutter (Mobile App)  
 
 ---
 
