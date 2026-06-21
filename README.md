@@ -12,15 +12,15 @@
 4. Turiman — STI202303581    
 5. Fani Amalia — STI202303653  
 
-## 🔗 Repository
+## 🔗 Repository & Download
 
-**Backend Repository:** https://github.com/andr-sten/TugasBesar_Backend
+**Frontend (Aplikasi Mobile):**  
+🔗 [Repository GitHub](https://github.com/andr-sten/q_campus_antrian_mahasiswa)  
+📥 [Unduh Aplikasi (APK Release)](https://github.com/andr-sten/q_campus_antrian_mahasiswa/releases/latest)
 
----
-
-## Link Versi Website:
-
-https://tugas-besar-backend.vercel.app/
+**Backend (REST API):**  
+🔗 [Repository GitHub](https://github.com/andr-sten/TugasBesar_Backend)  
+🌐 [Website / API Endpoint](https://tugas-besar-backend.vercel.app/)
 
 ## 🚀 Deskripsi Proyek
 
