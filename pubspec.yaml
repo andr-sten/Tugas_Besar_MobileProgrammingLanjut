@@ -1,0 +1,50 @@
+name: q_campus_antrian_mahasiswa
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP Client untuk komunikasi dengan REST API
+  http: ^1.2.0
+
+  # Penyimpanan lokal untuk token dan data user
+  shared_preferences: ^2.2.3
+
+  # Icon pack Material (sudah termasuk di Flutter, di sini untuk kejelasan)
+  cupertino_icons: ^1.0.6
+  google_fonts: ^8.1.0
+  intl: ^0.20.2
+  google_nav_bar: ^5.0.7
+  carousel_slider: ^5.1.2
+  smooth_page_indicator: ^2.0.1
+  flutter_local_notifications: ^21.0.0
+  timezone: ^0.11.0
+  qr_flutter: ^4.1.0
+  mobile_scanner: 6.0.0
+  screenshot: ^3.0.0
+  path_provider: ^2.1.5
+  permission_handler: ^12.0.2
+  gal: ^2.3.2
+  flutter_tts: ^4.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo.png"
+  adaptive_icon_background: "#E8EEE7"
+  adaptive_icon_foreground: "assets/logo.png"
