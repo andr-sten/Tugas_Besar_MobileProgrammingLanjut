@@ -16,7 +16,7 @@
 
 **Frontend (Aplikasi Mobile):**  
 🔗 [Repository GitHub](https://github.com/andr-sten/q_campus_antrian_mahasiswa)  
-📥 [Unduh Aplikasi (APK Release)](https://github.com/andr-sten/q_campus_antrian_mahasiswa/releases/latest)
+📥 [Unduh Aplikasi (APK Release)](https://github.com/andr-sten/Tugas_Besar_MobileProgrammingLanjut/releases/tag/v1.0.0)
 
 **Backend (REST API):**  
 🔗 [Repository GitHub](https://github.com/andr-sten/TugasBesar_Backend)  
