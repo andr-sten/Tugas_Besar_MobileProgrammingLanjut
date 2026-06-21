@@ -118,13 +118,92 @@ Tabel utama yang digunakan:
 
 ---
 
-## 📱 Progress Flutter (Planned)
+## 📱 Progress Flutter (Selesai)
 
-- [ ] UI Login  
-- [ ] UI Register  
-- [ ] UI Home  
-- [ ] UI Layanan  
-- [ ] UI Jadwal  
-- [ ] UI Antrian  
+- [x] UI Login  
+- [x] UI Register  
+- [x] UI Home Mahasiswa & Admin 
+- [x] UI Layanan & Jadwal (Admin)
+- [x] UI Ambil Antrian & QR Code (Mahasiswa)
+- [x] UI Kelola Antrian (Admin)
+- [x] Dark Mode Support
+
+---
+
+## 📸 Dokumentasi & Alur Aplikasi (Screenshots)
+
+Berikut adalah detail proses penggunaan aplikasi mulai dari awal pembukaan aplikasi, proses pengambilan antrian, hingga pengelolaan (CRUD) oleh Admin:
+
+### 1. Splash Screen
+Tampilan transisi saat aplikasi pertama kali dibuka (Logo Q-Campus).
+<p align="center">
+  <img src="img/splashscreen.jpeg" width="30%">
+  <img src="img/splashscreen1.jpeg" width="30%">
+</p>
+
+### 2. Onboarding
+Halaman pengenalan sistem yang muncul khusus untuk pengguna yang baru pertama kali menginstal aplikasi.
+<p align="center">
+  <img src="img/onboarding1.jpeg" width="30%">
+  <img src="img/onboarding2.jpeg" width="30%">
+  <img src="img/onboarding3.jpeg" width="30%">
+</p>
+
+### 3. Autentikasi (Login & Registrasi)
+Halaman bagi pengguna (Mahasiswa/Admin) untuk mendaftar akun dan masuk ke dalam sistem.
+<p align="center">
+  <img src="img/loginscreen.jpeg" width="30%">
+  <img src="img/registerscreen.jpeg" width="30%">
+  <img src="img/registerscreen2.jpeg" width="30%">
+</p>
+
+### 4. Alur Mahasiswa: Dashboard & Pengambilan Antrian
+Proses lengkap mahasiswa mulai dari melihat dashboard, memilih layanan & jadwal, pop-up konfirmasi, hingga mendapatkan Tiket Antrian digital (QR Code).
+<p align="center">
+  <img src="img/dashboardmahasiswa.jpeg" width="30%">
+  <img src="img/layananscreenmahasiswa.jpeg" width="30%">
+  <img src="img/pilihjadwalmodal.jpeg" width="30%">
+</p>
+<p align="center">
+  <img src="img/konfirmasiantrianmodal.jpeg" width="30%">
+  <img src="img/antriandiambilmodal.jpeg" width="30%">
+  <img src="img/showqrmahasiswamodal.jpeg" width="30%">
+</p>
+
+### 5. Alur Pemanggilan & Notifikasi
+Tampilan ketika mahasiswa sudah mendapatkan antrian, memantau sisa antrian secara realtime, serta notifikasi saat dipanggil.
+<p align="center">
+  <img src="img/mahasiswadashboard2sudahambil.jpeg" width="30%">
+  <img src="img/panggilannotification.jpeg" width="30%">
+</p>
+
+### 6. Alur Admin: Kelola Antrian Masuk & Scan QR
+Dashboard panel admin untuk mengontrol jalannya antrian (Panggil, Ulang, Selesai, Batal) serta fitur untuk pemindaian (scan) QR Code tiket mahasiswa.
+<p align="center">
+  <img src="img/admindashboard1.jpeg" width="30%">
+  <img src="img/generate qr admin.jpeg" width="30%">
+  <img src="img/scanscreen.jpeg" width="30%">
+</p>
+
+### 7. Alur Admin: CRUD Layanan & Jadwal
+Halaman di mana admin dapat menambah (Create), membaca (Read), mengubah (Update), dan menghapus (Delete) daftar Layanan beserta sesi Jadwalnya.
+<p align="center">
+  <img src="img/layananadmin.jpeg" width="30%">
+  <img src="img/tambahlayananmodal.jpeg" width="30%">
+  <img src="img/editlayanan.jpeg" width="30%">
+</p>
+<p align="center">
+  <img src="img/jadwaladmin.jpeg" width="30%">
+  <img src="img/tambahjadwalmodal.jpeg" width="30%">
+  <img src="img/konfirmasihapusmodal.jpeg" width="30%">
+</p>
+
+### 8. Mode Gelap & Pengaturan Profil
+Antarmuka pengguna saat mengaktifkan Dark Mode, ditambah dengan pengaturan profil Admin dan profil Mahasiswa.
+<p align="center">
+  <img src="img/themeseting.jpeg" width="30%">
+  <img src="img/profilemahasiswascreen.jpeg" width="30%">
+  <img src="img/profilscreenadmin.jpeg" width="30%">
+</p>
 
 ---
